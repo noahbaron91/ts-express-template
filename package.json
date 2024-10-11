@@ -1,7 +1,7 @@
 {
   "name": "ts-express-template",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main/index.ts",
   "scripts": {
     "start": "ts-node src/index.ts",
     "build": "tsc",
